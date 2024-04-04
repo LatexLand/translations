@@ -1,0 +1,51 @@
+# =======================
+#         Общее
+# =======================
+
+prefix: '§6LatexLand §8» §f'
+website_url: 'www.latexland.ru'
+vk_support_url: 'vk.me/latexland'
+eternity: 'вечность'
+
+configuration_reloaded: '$prefix$Конфигурация перезагружена'
+
+command_cooldown: '$prefix$Подождите немного перед повторным использованием'
+command_exception: '$prefix$Произошла ошибка при выполнении команды'
+command_available_only_in_lobby: '$prefix$Данная команда доступна только в лобби режимов или в хабе'
+
+no_permission: '$prefix$У вас недостаточно прав'
+no_permission_group: '$prefix$Минимальная привилегия для доступа к данной команде - §a%group%'
+
+player_offline: '$prefix$Данный игрок не в сети'
+player_not_found: '$prefix$Данный игрок никогда не играл на нашем проекте'
+
+player_incorrect_name: '$prefix$Вы указали неверный ник'
+
+# =======================
+#         Банжа
+# =======================
+motd: |-
+  §r                     §7• §6§lLatexLand §7• 
+  §r          §7Идеальное сочетание мини-игр и удовольствия 
+motd_not_connected: |-
+  §r             §7• §6§lLatexLand §7• 
+  §r    §cОтсутствует соединение с координатором проекта 
+core_not_connected: |-
+  §cСвязь с игровым координатором потеряна :(
+
+  §cВы сможете войти, как только соединение
+  §cбудет восстановлено, ожидайте
+
+  §cНаблюдайте за новостями в соц.сетях!
+
+tab_header: |
+  §f
+  §6§lLatexLand
+  §f
+  §fОнлайн магазин:
+  §ewww.LatexLand.ru
+tab_footer: |-
+  §f
+  §fВы находитесь на сервере:
+  §e%server_name%
+  §f
